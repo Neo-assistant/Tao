@@ -1,0 +1,14 @@
+D:\github projects\Tao\bin\Debug\net7.0\Tao.exe
+D:\github projects\Tao\bin\Debug\net7.0\Tao.deps.json
+D:\github projects\Tao\bin\Debug\net7.0\Tao.runtimeconfig.json
+D:\github projects\Tao\bin\Debug\net7.0\Tao.dll
+D:\github projects\Tao\bin\Debug\net7.0\Tao.pdb
+D:\github projects\Tao\obj\Debug\net7.0\Tao.GeneratedMSBuildEditorConfig.editorconfig
+D:\github projects\Tao\obj\Debug\net7.0\Tao.AssemblyInfoInputs.cache
+D:\github projects\Tao\obj\Debug\net7.0\Tao.AssemblyInfo.cs
+D:\github projects\Tao\obj\Debug\net7.0\Tao.csproj.CoreCompileInputs.cache
+D:\github projects\Tao\obj\Debug\net7.0\Tao.dll
+D:\github projects\Tao\obj\Debug\net7.0\refint\Tao.dll
+D:\github projects\Tao\obj\Debug\net7.0\Tao.pdb
+D:\github projects\Tao\obj\Debug\net7.0\Tao.genruntimeconfig.cache
+D:\github projects\Tao\obj\Debug\net7.0\ref\Tao.dll
